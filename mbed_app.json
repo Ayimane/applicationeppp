@@ -1,0 +1,10 @@
+{
+    "config": {
+        "target_overrides": {
+            "*": {
+                "target.c_lib": "small",
+                "target.cpu_floating_point": "soft"
+            }
+        }
+    }
+}
